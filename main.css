@@ -1,0 +1,45 @@
+body#gsr.hp.vasq{
+background-color: #000;
+}
+body#gsr.hp.vasq.a{
+	border-bottom: 1px solid white;
+}
+div#SIvCob{
+	color: #fff;
+}
+div#SIvCob a{
+	color: #fff;
+}
+#gb#gb a.gb_O, #gb#gb a.gb_P, #gb#gb span.gb_P{
+	color: white !important;
+	text-decoration: none;
+}
+
+.Q8LRLc{
+	color: white !important;
+}
+.fbar p, .fbar a, #fsettl, #fsett a{
+	color: white !important;	
+}
+.fbar{
+	background-color: black;
+}
+#fbar{
+	color: white !important;	
+}
+
+.jhp input[type="submit"], .sbdd_a input, .gbqfba{
+    background-color: #000 !important;
+    background-image: none !important;
+    border: none !important;
+    color: white !important;
+    padding: 16px 32px !important;
+    text-decoration: none !important;
+    margin: 4px 2px !important;
+    cursor: pointer !important;
+}
+
+div.gb_xe.gb_R.gb_Me.gb_Ee {
+ font-weight: bold;
+ font-size: 15px;
+}
