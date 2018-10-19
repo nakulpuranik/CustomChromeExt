@@ -15,6 +15,24 @@ div#SIvCob a{
 	text-decoration: none;
 }
 
+div.gb_Qc{
+  background: rgba(255,255,255);
+  transition: all .3s linear;
+}
+
+div.gstl_0.sbib_a{
+  background: rgba(0,0,0,0.9);
+}
+
+input#lst-ib:focus{
+  color:#fff;
+}
+
+ul.sbsb_b{
+	background: rgba(0,0,0,0.9);
+	color:#fff;
+}
+
 .Q8LRLc{
 	color: white !important;
 }
@@ -28,14 +46,15 @@ div#SIvCob a{
 	color: white !important;	
 }
 
+
 .jhp input[type="submit"], .sbdd_a input, .gbqfba{
-    background-color: #000 !important;
+    background-color: rgba(0, 0, 0, 0.9) !important;
     background-image: none !important;
     border: none !important;
     color: white !important;
-    padding: 16px 32px !important;
+    
     text-decoration: none !important;
-    margin: 4px 2px !important;
+    
     cursor: pointer !important;
 }
 
