@@ -16,8 +16,15 @@ div#SIvCob a{
 }
 
 div.gb_Qc{
-  background: rgba(255,255,255);
-  transition: all .3s linear;
+  background: rgba(200,200,200,0.9);    
+}
+
+div.gb_Qc:hover{
+  cursor: pointer;
+}
+
+div.gb_Dg.gb_R{
+  background: rgba(0,0,0,0.9);  	
 }
 
 div.gstl_0.sbib_a{
@@ -30,7 +37,11 @@ input#lst-ib:focus{
 
 ul.sbsb_b{
 	background: rgba(0,0,0,0.9);
-	color:#fff;
+	color:rgba(255,255,255,0.9);
+}
+
+ul.sbsb_b li:hover{
+	background: rgba(100,100,100,0.9);
 }
 
 .Q8LRLc{
@@ -61,4 +72,12 @@ ul.sbsb_b{
 div.gb_xe.gb_R.gb_Me.gb_Ee {
  font-weight: bold;
  font-size: 15px;
+}
+
+a#gb_70{
+	background: rgba(0,0,0);
+    border: none;
+}
+a#gb_70:hover{
+  cursor: pointer !important;	
 }
